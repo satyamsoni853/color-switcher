@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    display: block;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    margin-left: 50px;
+
+    border: 2px solid black;
+    display: inline-block;
+    cursor: pointer;
+}
+h3{
+    margin-top: 30PX;
+    font-size: 20PX;
+    font-weight: 400;
+}
+h1{
+    border-bottom: 10px;
+
+}
+#yellow{
+    background-color: yellow;
+}
+#white{
+    background-color: white;
+}
+#green{
+    background-color: green;
+}
+#grey{
+    background-color: grey;
+}
+#khaki{
+    background-color: khaki;
+}
+#pink{
+    background-color: pink;
+}
+#red{
+    background-color: red;
+}
+#skyblue{
+    background-color: skyblue;
+}
+#blue{
+    background-color: blue;
+    /* background-color:turquoise; */
+}
+#turquoise{
+    background-color:turquoise;
+}
